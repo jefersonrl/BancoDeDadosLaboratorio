@@ -1,0 +1,1 @@
+INSERT INTO alunos(nome, cpf, email, fone, data_nascimento) VALUES ("Jeferson Roberto de Lima", 37251946882, "jefersonrl@icloud.com", 959448566, "2000-04-01")
